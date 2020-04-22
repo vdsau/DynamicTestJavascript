@@ -1,0 +1,31 @@
+﻿*
+{
+    margin:1%;
+    line-height:0;
+    font-size:1em;
+}
+button {
+    padding: 1%;
+}
+hr{
+    border:2px solid red;
+}
+#theme{
+    font-weight:bolder;
+}
+li {
+    list-style-type:none;
+}
+div {
+    border: 2px solid red;
+    line-height: 1em;
+    padding:1%;
+    margin-bottom:3%;
+}
+#win {
+    border: 10px solid red;
+    margin: 0 auto;
+    line-height: 1em;
+    padding: 2%;
+    font-size:1.2em;
+}
